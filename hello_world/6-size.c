@@ -1,10 +1,10 @@
-#include <stdio.h>                                                                                              
+#include <stdio.h>
 /**
  * main - entry point of the program
  *
  * Return: 0
  *
- */ 
+ */
 int main(void)
 {
 	printf("Size of char: %zu byte(s)\n", sizeof(char));
