@@ -1,7 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-#include "main.h"
-#include <stdio.h>
 
 /**
  * main - Calls the function _putchar to print with
@@ -12,17 +10,13 @@
 int main(void)
 
 {
-
 	char a[] = "_putchar";
-	
 	int s = sizeof(a);
-	
 	int b;
-	
+
 	for (b = 0; b < (s - 1); b++)
 	
 	{
-	
 		_putchar(a[b]);
 	
 	}
