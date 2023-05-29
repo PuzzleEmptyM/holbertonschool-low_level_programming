@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * main - Calls the function _putchar to print with
  *
@@ -8,7 +7,6 @@
  */
 
 int main(void)
-
 {
 	char a[] = "_putchar";
 	int s = sizeof(a);
