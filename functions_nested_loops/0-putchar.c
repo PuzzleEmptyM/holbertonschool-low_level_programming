@@ -1,25 +1,25 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - Calls the function _putchar to print with
+ * main - Calls the function putchar to print with
  *
  * Return: 0
  */
 
 int main(void)
 {
-	char a[] = "_putchar";
+	char a[] = "putchar";
 	int s = sizeof(a);
 	int b;
 
 	for (b = 0; b < (s - 1); b++)
 	
 	{
-		_putchar(a[b]);
+		putchar(a[b]);
 	
 	}
 	
-	_putchar('\n');
+	putchar('\n');
 	
 	return (0);
 
