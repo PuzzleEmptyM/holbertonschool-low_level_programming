@@ -1,10 +1,10 @@
-#include <studio.h>
+#include <stdio.h>
 
 void print_alphabet(void); // Function prototype for print_alphabet
 
 int main(void)
 {
-	print_alphabet;
+	print_alphabet();
 	return 0;
 }
 
