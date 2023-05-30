@@ -8,7 +8,7 @@
  */
 
 void times_table(void)
-
+{
 	int row, col;
 	int mult = 0;
 
@@ -37,3 +37,4 @@ void times_table(void)
 		}
 		_putchar('\n');
 	}
+}
