@@ -1,7 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 
-/** print_sign - gives the sign of a passed number
+/**
+ * print_sign - gives the sign of a passed number
  * @n: number to be compared
  *
  * Return: Returns three values based on n
