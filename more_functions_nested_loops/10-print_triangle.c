@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio.>
+#include <stdio.h>
 
 /**
  * print_triangle - function that prints a square, followed by a new line
