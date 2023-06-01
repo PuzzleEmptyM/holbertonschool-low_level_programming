@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print digital - function that draws a diagonal line on the terminal.
+ * print_diagonal - function that draws a diagonal line on the terminal.
  * @n: input value to check
  * Return: nothing.
  */
