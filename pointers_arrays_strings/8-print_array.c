@@ -5,7 +5,7 @@
  * print_array - function that prints elements of an array of integers
  *
  * @a: pointer to first int
- * @b pointer to second int
+ * @b: pointer to second int
  * Return: nothing
  */
 
