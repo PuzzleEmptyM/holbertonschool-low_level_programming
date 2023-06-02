@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_rev - function that prints a string, in reverse order
+ * print_rev - function that prints a string, in reverse
  * @s: String to print
- * Return: nothing
+ * Return: nothing.
  */
 
 void print_rev(char *s)
@@ -17,6 +17,7 @@ void print_rev(char *s)
 	while (i >= 0)
 	{
 		_putchar(*(s + i));
+		i--;
 	}
 	_putchar('\n');
 }
