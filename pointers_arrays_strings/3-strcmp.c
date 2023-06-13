@@ -6,7 +6,7 @@
  *
  * @s1: pointer to char source 1
  * @s2: pointer to char source 2
- * Retunr: int
+ * Return: int
  */
 
 int _strcmp(char *s1, char *s2)
