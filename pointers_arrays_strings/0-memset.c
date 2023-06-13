@@ -10,7 +10,7 @@
  * Return: char
  */
 
-char *_memset(char *s, char b, unsigned n)
+char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i = 0;
 
