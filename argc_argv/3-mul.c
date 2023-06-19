@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "main.h"
 
 /**
- * main - program that prints all arguments it recieves
+ * main - program that multiplies two numbers
  *
  * @argc: argument count
  *
