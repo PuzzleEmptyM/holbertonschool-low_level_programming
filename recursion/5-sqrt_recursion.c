@@ -22,7 +22,7 @@ int _sqrt_recursion(int n)
 }
 
 /**
- * getNumSgr - funtion that gets the number of sqrt
+ * getNumSqr - funtion that gets the number of sqrt
  *
  * @num: input number
  *
