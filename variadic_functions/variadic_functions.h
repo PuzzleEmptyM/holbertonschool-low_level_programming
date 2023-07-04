@@ -2,11 +2,12 @@
 #define _VARIADIC_FUNCTIONS_H_
 /**
  * struct get_format - main entry.
- * 
+ *
  * @p_type: pointer to a char
  * @func: pointer to a function
- * 
- * Description: getfunction compare operator type and invoke the correct function
+ *
+ * Description: get function, compare operator type, and invoke
+ * the correct function
  */
 
 typedef struct get_format
