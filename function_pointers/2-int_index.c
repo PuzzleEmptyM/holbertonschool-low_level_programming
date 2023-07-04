@@ -2,11 +2,11 @@
 
 /**
  * int_index - Search for an integer.
- * 
+ *
  * @array: Pointer to array
  * @size: Array's size
  * @cmp: Pointer to function
- * 
+ *
  * Return: The index of searched integer
  */
 
