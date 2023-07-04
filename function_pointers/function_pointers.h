@@ -1,4 +1,4 @@
-fndef HOLBERTON_H
+#ifndef HOLBERTON_H
 #define HOLBERTON_H
 typedef __SIZE_TYPE__ size;
 void print_name(char *name, void (*f)(char *));
