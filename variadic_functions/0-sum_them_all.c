@@ -3,10 +3,10 @@
 
 /**
  * sum_them_all - returns the sum of all its parameters
- * 
+ *
  * @n: number of parameters passed in the function
  * @...: variable number of parameters to calculate sum
- * 
+ *
  * Return: If n == 0, 0
  * Otherwise, sum of all parameters
  */
