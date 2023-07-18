@@ -28,7 +28,7 @@ ssize_t read_textfile(const char *filename, size_t letters)
 		free(buff);
 		return (0);
 	}
-	/* read file up to "letters" amount of charachters */
+	/* read file up to "letters" amount of characters */
 	lRead = read(of, buff, letters);
 	if (lRead < 1)
 	{
